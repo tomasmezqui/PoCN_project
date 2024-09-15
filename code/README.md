@@ -1,0 +1,1 @@
+folder containing the source code and output for your experiments. Each task should have its own sub-folder (eg, task_32 for the task #32). Ensure that your code can be used without needing external software such as notebooks, R studio, etc. Python or R scripts are expected. If you work with notebooks, be sure that you upload both the notebook and a standard standalone script.
